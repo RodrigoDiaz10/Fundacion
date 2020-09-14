@@ -3447,7 +3447,7 @@ ol {
   /* ___________---------------------- */
   
   .bghist:hover {
-	background-image: url("../assets/img/hero-slider/campus.jpg");
+	background-image: url("../img/hero-slider/campus.jpg");
 	background-size: cover;
 	background-position: center;
 	-webkit-filter: blur(2px); filter: blur(2px);
@@ -3457,6 +3457,7 @@ ol {
   .new h2 p{
 	  z-index: 1;
 	  color: #fff; 
+	  
   }
   .blur:hover{
 	-webkit-filter: grayscale(50%);
